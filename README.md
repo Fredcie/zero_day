@@ -1,1 +1,1 @@
-this is my first vagrant project
+echo 'this is my first vagrant project'
